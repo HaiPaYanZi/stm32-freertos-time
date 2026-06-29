@@ -1,0 +1,60 @@
+# ========== Keil MDK-ARM 编译输出 ==========
+*.o
+*.d
+*.crf
+*.dep
+*.hex
+*.bin
+*.axf
+*.map
+*.lst
+*.iex
+*.sct
+*.lnp
+*.htm
+*.sbr
+*.obj
+*.lib
+
+# ========== Keil 工程临时配置 ==========
+*.uvguix.*
+*.uvoptx
+*.uvproj.*
+*.scvd
+*.bak
+*.sdiff
+JLinkLog.txt
+*.jlink
+*.jlinkexe
+
+# ========== 编译中间目录 ==========
+Build/
+build/
+RTE/_*/
+MDK-ARM/RTE/_*/
+MDK-ARM/**/Listings/
+MDK-ARM/**/Objects/
+MDK-ARM/**/Output/
+
+# ========== Windows 系统文件 ==========
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# ========== 编辑器/IDE 临时文件 ==========
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.user
+*.ap2
+
+# ========== CubeMX 临时文件 ==========
+.mxproject
+*.ioc.bak
+
+# ========== Proteus 备份 ==========
+*_backup/
+*.pdsbak
+*.eprj_backup
