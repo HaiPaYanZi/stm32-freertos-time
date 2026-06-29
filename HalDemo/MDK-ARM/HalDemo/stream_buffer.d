@@ -1,0 +1,14 @@
+haldemo\stream_buffer.o: freeRTOS\Source\stream_buffer.c
+haldemo\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+haldemo\stream_buffer.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\stream_buffer.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\stream_buffer.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\stream_buffer.o: ./freeRTOS/include/projdefs.h
+haldemo\stream_buffer.o: ./freeRTOS/include/portable.h
+haldemo\stream_buffer.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\stream_buffer.o: ./freeRTOS/Portable/portmacro.h
+haldemo\stream_buffer.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\stream_buffer.o: ./freeRTOS/include/task.h
+haldemo\stream_buffer.o: ./freeRTOS/include/list.h
+haldemo\stream_buffer.o: ./freeRTOS/include/stream_buffer.h

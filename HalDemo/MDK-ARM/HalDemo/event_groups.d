@@ -1,0 +1,15 @@
+haldemo\event_groups.o: freeRTOS\Source\event_groups.c
+haldemo\event_groups.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+haldemo\event_groups.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\event_groups.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\event_groups.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\event_groups.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\event_groups.o: ./freeRTOS/include/projdefs.h
+haldemo\event_groups.o: ./freeRTOS/include/portable.h
+haldemo\event_groups.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\event_groups.o: ./freeRTOS/Portable/portmacro.h
+haldemo\event_groups.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\event_groups.o: ./freeRTOS/include/task.h
+haldemo\event_groups.o: ./freeRTOS/include/list.h
+haldemo\event_groups.o: ./freeRTOS/include/timers.h
+haldemo\event_groups.o: ./freeRTOS/include/event_groups.h

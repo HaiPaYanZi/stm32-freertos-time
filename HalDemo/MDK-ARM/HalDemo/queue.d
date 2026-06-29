@@ -1,0 +1,15 @@
+haldemo\queue.o: freeRTOS\Source\queue.c
+haldemo\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+haldemo\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+haldemo\queue.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\queue.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\queue.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\queue.o: ./freeRTOS/include/projdefs.h
+haldemo\queue.o: ./freeRTOS/include/portable.h
+haldemo\queue.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\queue.o: ./freeRTOS/Portable/portmacro.h
+haldemo\queue.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\queue.o: ./freeRTOS/include/task.h
+haldemo\queue.o: ./freeRTOS/include/list.h
+haldemo\queue.o: ./freeRTOS/include/queue.h

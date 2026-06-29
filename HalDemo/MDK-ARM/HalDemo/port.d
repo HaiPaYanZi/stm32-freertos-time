@@ -1,0 +1,12 @@
+haldemo\port.o: freeRTOS\Portable\port.c
+haldemo\port.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\port.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\port.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\port.o: ./freeRTOS/include/projdefs.h
+haldemo\port.o: ./freeRTOS/include/portable.h
+haldemo\port.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\port.o: ./freeRTOS/Portable/portmacro.h
+haldemo\port.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\port.o: ./freeRTOS/include/task.h
+haldemo\port.o: ./freeRTOS/include/list.h

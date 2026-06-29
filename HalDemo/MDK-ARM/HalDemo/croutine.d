@@ -1,0 +1,13 @@
+haldemo\croutine.o: freeRTOS\Source\croutine.c
+haldemo\croutine.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\croutine.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\croutine.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\croutine.o: ./freeRTOS/include/projdefs.h
+haldemo\croutine.o: ./freeRTOS/include/portable.h
+haldemo\croutine.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\croutine.o: ./freeRTOS/Portable/portmacro.h
+haldemo\croutine.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\croutine.o: ./freeRTOS/include/task.h
+haldemo\croutine.o: ./freeRTOS/include/list.h
+haldemo\croutine.o: ./freeRTOS/include/croutine.h

@@ -1,0 +1,14 @@
+haldemo\heap_4.o: freeRTOS\Portable\heap_4.c
+haldemo\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+haldemo\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+haldemo\heap_4.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\heap_4.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\heap_4.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\heap_4.o: ./freeRTOS/include/projdefs.h
+haldemo\heap_4.o: ./freeRTOS/include/portable.h
+haldemo\heap_4.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\heap_4.o: ./freeRTOS/Portable/portmacro.h
+haldemo\heap_4.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\heap_4.o: ./freeRTOS/include/task.h
+haldemo\heap_4.o: ./freeRTOS/include/list.h

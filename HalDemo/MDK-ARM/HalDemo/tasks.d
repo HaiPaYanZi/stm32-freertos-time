@@ -1,0 +1,16 @@
+haldemo\tasks.o: freeRTOS\Source\tasks.c
+haldemo\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdlib.h
+haldemo\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\string.h
+haldemo\tasks.o: ./freeRTOS/include/FreeRTOS.h
+haldemo\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stddef.h
+haldemo\tasks.o: D:\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+haldemo\tasks.o: ./freeRTOS/FreeRTOSConfig.h
+haldemo\tasks.o: ./freeRTOS/include/projdefs.h
+haldemo\tasks.o: ./freeRTOS/include/portable.h
+haldemo\tasks.o: ./freeRTOS/include/deprecated_definitions.h
+haldemo\tasks.o: ./freeRTOS/Portable/portmacro.h
+haldemo\tasks.o: ./freeRTOS/include/mpu_wrappers.h
+haldemo\tasks.o: ./freeRTOS/include/task.h
+haldemo\tasks.o: ./freeRTOS/include/list.h
+haldemo\tasks.o: ./freeRTOS/include/timers.h
+haldemo\tasks.o: ./freeRTOS/include/stack_macros.h
